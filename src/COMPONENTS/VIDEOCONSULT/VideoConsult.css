@@ -1,0 +1,121 @@
+.consult-collum-2 h1 {
+     font-weight: 500;
+     padding-top: 3vw;
+     margin-left: 20vw;
+}
+.consult-collum-2 h2 {
+     margin-left: 17vw;
+}
+
+.consult-image-container-2 {
+     display: flex;
+     flex-direction: row;
+     padding: 2vw;
+     justify-content: space-evenly;
+   }
+   
+   .consut-image-item-2 {
+     border-radius: 1vw;
+     text-align: center;
+     box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
+   }
+   
+   .consut-image-item-2 img {
+     width: 10vw;
+     height: 10vw;
+     object-fit: cover;
+     mix-blend-mode: multiply;
+   }
+   
+   .consult-image-content-2 {
+     flex: 1;
+    padding: 0.5vw;
+   }
+   
+   .consult-image-content-2 p {
+     font-size: 1.2vw;
+     font-weight: 600;
+   }
+
+   .consut-image-item-2:hover {
+      transform: scale(1.02);
+      transition: 0.2s ease-in;
+      opacity: 0.9;
+      cursor: pointer;
+      color: rgb(21, 151, 202);
+   }
+
+   .consult-collum-3 {
+      background-color: #feba7f;
+      width: 37vw;
+      height: 17vw;
+      margin-left: 30vw;
+      margin-top: 5vw;
+      box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+      border-radius: 0.3vw;
+   }
+
+   .consult-collum-3 b {
+       background-color: aliceblue;
+       color: red;
+       font-size: 1.5vw;
+   }
+
+   .consult-collum-3 h2 {
+      font-size: 1.7vw;
+      font-weight: 500;
+      margin-left: 2vw;
+   }
+
+   .consult-collum-3 img {
+       width: 13vw;
+       height: 13vw;
+       position: relative;
+       bottom: 5.3vw;
+       margin-left: 20vw;
+   }
+
+   .book-link-2 {
+      font-weight: bold;
+      color: black;
+      position: relative;
+      top: 3vw;
+      right: 8.5vw;
+      font-size: 1.5vw;
+   }
+
+   .consult-collum-3 span {
+          font-weight: bold;
+          font-size: 1.7vw;
+          margin-left: 3vw;
+          color: red;
+   }
+
+   .consult-collum-4 p  {
+      font-size: 2vw;
+      font-weight: 600;
+      text-align: center;
+      padding: 1vw;
+   }
+
+   .consult-collum-4 ul {
+      list-style-type: none;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      padding: 2vw;
+   }
+
+   .consult-collum-4 li {
+       background-color: rgb(252, 221, 190);
+       padding: 1vw;
+       border-radius: 50%;
+   }
+
+   .consult-collum-4 h3 {
+      font-size: 1.3vw;
+      font-weight: 500;
+   }
+
+
+   

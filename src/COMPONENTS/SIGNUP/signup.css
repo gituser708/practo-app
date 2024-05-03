@@ -1,0 +1,25 @@
+.signup-form {
+     width: 35vw; /* 50% of the viewport width */
+     margin: 0 auto; /* Center the form horizontally */
+     padding-top: 7vw;
+   }
+   
+   .signup-form input,
+   .signup-form button {
+     width: 80%; /* 90% of the parent's width */
+     margin: 0.7vw 0; /* 10px top and bottom margin */
+     padding: 0,7vw; /* 10px padding */
+     font-size: 2vw; /* Font size relative to the viewport width */
+   }
+   
+   .signup-form button {
+     background-color: red; /* Blue color for the button */
+     color: white; /* White text color */
+     border: none; /* No border */
+     cursor: pointer; /* Show pointer cursor on hover */
+   }
+   
+   .signup-form button:hover {
+     background-color: #0056b3; /* Darker blue color on hover */
+   }
+   

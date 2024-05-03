@@ -1,0 +1,32 @@
+nav {
+     background-color: transparent;
+}
+
+
+.nav-list {
+     font-weight: bold;
+     font-size: 1.5vw;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+     list-style-type: none;
+};
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: black; 
+  margin-left: 3vw;
+}
+
+.nav-item a:hover {
+  color: red;
+}
+
+.nav-item a.active {
+  color:red; 
+}

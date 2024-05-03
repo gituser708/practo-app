@@ -1,0 +1,103 @@
+ .medicine-list h1 {
+    color: red;
+    font-weight: bold;
+    font-size: 3vw;
+    text-align: center;
+    padding: 3vw;
+    margin: 2vw;
+ }
+ 
+ .medicine-list select {
+    padding: 0.7vw;
+    margin-top: 2vw;
+    width: 10vw;
+    margin-left: 27vw;
+    appearance: none;
+    outline: none;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    border-left: 0.3vw solid black;
+    border-right: 0.3vw solid black;
+    font-weight: bold;
+    font-size: 1.2vw;
+    text-align: center;
+ }
+
+ .medicine-list input  {
+    padding: 0.7vw;
+    margin-top: 2vw;
+    width: 33vw;
+    appearance: none;
+    outline: none;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    font-weight: bold;
+    font-size: 1.2vw;
+    text-align: center;
+ }
+
+ .search-btn {
+    padding: 0.5vw;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1vw;
+    text-align: center;
+    border: none;
+    border-radius: 1vw;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+ }
+ .search-btn:hover {
+    transform: scale(1.1);
+ }
+
+ 
+
+.medicines {
+    display: flex;
+    flex-wrap:wrap;
+    margin-top: 5vw;
+}
+
+.medicine-item {
+    margin-left: 1vw;
+    margin-top: 1vw;
+    border: 1px solid silver;
+    padding: 1vw;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.3);
+    
+}
+
+ .medicine-item img {
+    width: 50%;
+    object-fit: cover;
+ }
+ .medicine-item h3 {
+    font-size: 1.1vw;
+    color: red;
+ }
+
+ .medicine-item p {
+    font-size: 1.1vw;
+    font-weight: 500;
+ }
+
+ .medicine-item button {
+    padding: 0.5vw;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1vw;
+    text-align: center;
+    border: none;
+    border-radius: 1vw;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+ }
+
+ .medicine-item button:hover {
+    transform: scale(1.1);
+ }
+
+ 

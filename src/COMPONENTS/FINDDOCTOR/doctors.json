@@ -1,0 +1,250 @@
+[
+     {
+       "name": "A.k Sharma",
+       "gender": "Male",
+       "age": 30,
+       "experience": "10 years",
+       "speciality": "Cough, Cold, Fever",
+       "contact": "123-456-7890",
+       "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+     },
+     {
+       "name": "Soubhik Roy",
+       "gender": "Male",
+       "age": 25,
+       "experience": "5 years",
+       "speciality": "Cough, Cold, Fever",
+       "contact": "123-456-7890",
+       "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+     },
+     {
+       "name": "Rohit Roy",
+       "gender": "Male",
+       "age": 25,
+       "experience": "5 years",
+       "speciality": "Dentist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+     },
+     {
+       "name": "Mahadev Sen",
+       "gender": "Male",
+       "age": 29,
+       "experience": "5 years",
+       "speciality": "Dentist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+     },
+     {
+     "name": "Mahadev Berman",
+     "gender": "Male",
+     "age": 30,
+     "experience": "10 years",
+     "speciality": "Dentist",
+     "contact": "123-456-7890",
+     "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+   },
+
+   {
+    "name": "Dr. Sen",
+    "gender": "Male",
+    "age": 29,
+    "experience": "5 years",
+    "speciality": "Ear-nose-throat",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+
+  {
+    "name": "Mohit Berma",
+    "gender": "Male",
+    "age": 29,
+    "experience": "7 years",
+    "speciality": "Ear-nose-throat",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+  
+  {
+    "name": "Dr. Roy",
+    "gender": "Male",
+    "age": 35,
+    "experience": "10 years",
+    "speciality": "Cardiologist",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+
+  {
+    "name": "Akash Mishra",
+    "gender": "Male",
+    "age": 35,
+    "experience": "11 years",
+    "speciality": "Cardiologist",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+
+  {
+    "name": "Ajoy Nagar",
+    "gender": "Male",
+    "age": 35,
+    "experience": "5 years",
+    "speciality": "Dermatologist",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+
+  {
+    "name": "Som Gupta",
+    "gender": "Male",
+    "age": 35,
+    "experience": "5 years",
+    "speciality": "Dermatologist",
+    "contact": "123-456-7890",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+  },
+
+  
+    {
+      "name": "Soumen Paul",
+      "gender": "Male",
+      "age": 35,
+      "experience": "5 years",
+      "speciality": "Neurologist",
+      "contact": "123-456-7890",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+    },
+
+    {
+      "name": "John Robust",
+      "gender": "Male",
+      "age": 35,
+      "experience": "15 years",
+      "speciality": "Neurologist",
+      "contact": "123-456-7890",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+    },
+
+    {
+      "name": "Soumen Sahu",
+      "gender": "Male",
+      "age": 35,
+      "experience": "10 years",
+      "speciality": "Child Specialist",
+      "contact": "123-456-7890",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+    },
+
+    {
+      "name": "Tanay Protap",
+      "gender": "Male",
+      "age": 35,
+      "experience": "10 years",
+      "speciality": "Child Specialist",
+      "contact": "123-456-7890",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/02/29/53/11/1000_F_229531197_jmFcViuzXaYOQdoOK1qyg7uIGdnuKhpt.jpg"
+    },
+
+
+
+     {
+       "name": "Suhani Saha",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Dermatologist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+       "name": "Suhani Roy",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Dermatologist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+       "name": "Gourab Saha",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Ear-nose-throat",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+       "name": "Keya Saha",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Ear-nose-throat",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+       "name": "Prema Singh",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Cardiologist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+       "name": "Puja Roy",
+       "gender": "Female",
+       "age": 29,
+       "experience": "10 years",
+       "speciality": "Cardiologist",
+       "contact": "123-456-7890",
+       "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+     },
+     {
+          "name": "M.M Saha",
+          "gender": "Female",
+          "age": 30,
+          "experience": "10 years",
+          "speciality": "Cough, Cold, Fever",
+          "contact": "123-456-7890",
+          "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+        },
+        {
+          "name": "Janvi Sahu",
+          "gender": "Female",
+          "age": 25,
+          "experience": "5 years",
+          "speciality": "Cough, Cold, Fever",
+          "contact": "123-456-7890",
+          "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+        },
+        {
+          "name": "Jasemin Kapur",
+          "gender": "Female",
+          "age": 25,
+          "experience": "5 years",
+          "speciality": "Dentist",
+          "contact": "123-456-7890",
+          "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+        },
+        {
+          "name": "Kiran Sen",
+          "gender": "Female",
+          "age": 29,
+          "experience": "5 years",
+          "speciality": "Dentist",
+          "contact": "123-456-7890",
+          "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+        },
+        {
+          "name": "Suhani Saha",
+          "gender": "Female",
+          "age": 29,
+          "experience": "10 years",
+          "speciality": "Dermatologist",
+          "contact": "123-456-7890",
+          "imageUrl": "https://cdn4.iconfinder.com/data/icons/avatar-1-2/512/Doctor3-512.png"
+        }
+      ]

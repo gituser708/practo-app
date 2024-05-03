@@ -1,0 +1,76 @@
+.medi-banner {
+     position: relative;
+     width: 100%;
+     height: 40vw;
+     overflow: hidden;
+ }
+ 
+ .medi-banner-item {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     opacity: 0;
+     transition: opacity 0.5s ease-in-out;
+ }
+ 
+ .medi-banner-item.active {
+     opacity: 1;
+ }
+
+ .medi-banner-item-1 img {
+      width: 100%;
+      height: 100%;
+ }
+ 
+ .medi-banner-item img {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+ }
+
+
+ .medi-banner-content-1 h1 {
+     position: absolute;
+     text-align: center;
+     top: 5vw;
+     left: 5vw;
+     color: white;
+     font-size: 2.5vw;
+ }
+
+ .medi-banner-content-1 p {
+    position: absolute;
+    top: 12vw;
+    left: 7vw;
+    font-size: 2.2vw;
+ }
+
+ .medi-banner-content-1 h3 {
+    position: absolute;
+     top: 25vw;
+     left: 5vw;
+     color: white;
+     font-size: 2vw;
+ }
+
+ .medi-banner-content-2 h1 {
+    position: absolute;
+    top: 7vw;
+    left: 7vw;
+    color: black;
+    font-size: 2.2vw;
+ }
+
+ .medi-banner-content-2 p {
+    position: absolute;
+    top: 13vw;
+    left: 7vw;
+    font-size: 2.2vw;
+    color: white;
+    font-weight: 600;
+ }
+ 
+
+ 

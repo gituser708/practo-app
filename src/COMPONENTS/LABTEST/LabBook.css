@@ -1,0 +1,32 @@
+.lab-book-form {
+     width: 35vw; /* 35% of the viewport width */
+     margin: 0 auto; /* Center the form horizontally */
+   }
+   
+   .lab-book-form h1 {
+     text-align: center; 
+     font-size: 3vw;
+     color: red;
+
+   }
+   
+   .lab-book-form input,
+   .lab-book-form button {
+     width: 100%; /* Full width for input and button */
+     margin: 0.5vw 0; /* 1% top and bottom margin */
+     padding: 0.7vw; /* 1% padding */
+     font-size: 1.5vw; /* Font size 1.5% of viewport width */
+   }
+   
+   .lab-book-form button {
+     background-color: red; /* Blue color for the button */
+     color: white; /* White text color */
+     border: none; /* No border */
+     cursor: pointer; /* Show pointer cursor on hover */
+     width: 105%;
+   }
+   
+   .lab-book-form button:hover {
+     background-color: #0056b3; /* Darker blue color on hover */
+   }
+   

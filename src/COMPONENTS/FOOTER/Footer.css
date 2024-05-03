@@ -1,0 +1,93 @@
+.footer-container {
+     background-color: black;
+     height: 37vw;
+}
+.footer-lists {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+}
+.footer-list-1 {
+     color: white;
+     list-style-type: none;
+     font-size: 1.7vw;
+     font-weight: bold;
+     display: flex;
+     flex-direction: column;
+     padding-top: 2vw;
+    
+}
+
+.footer-item-1 {
+     color: silver;
+     font-size: 1.3vw;
+     margin-top: 1vw;
+}
+
+.footer-list-2 {
+     color: white;
+     list-style-type: none;
+     font-size: 1.7vw;
+     font-weight: bold;
+     display: flex;
+     flex-direction: column;
+     padding-top: 2vw;
+     
+}
+
+.footer-item-2 {
+     color: silver;
+     font-size: 1.3vw;
+     margin-top: 1vw;
+}
+
+.footer-list-3 {
+     color: white;
+     list-style-type: none;
+     font-size: 1.7vw;
+     font-weight: bold;
+     display: flex;
+     flex-direction: column;
+     padding-top: 2vw;
+    
+}
+
+.footer-item-3 {
+     color: silver;
+     font-size: 1.3vw;
+     margin-top: 1vw;
+}
+
+.footer-list-4 {
+     color: white;
+     list-style-type: none;
+     font-size: 1.7vw;
+     font-weight: bold;
+     display: flex;
+     flex-direction: column;
+     padding-top: 2vw;
+     text-align: center;
+}
+
+.footer-item-4 img {
+     width: 2.5vw;
+     cursor: pointer;
+     margin-top: 1.5vw;
+   }
+
+   .footer-collum-5 p {
+     color: white;
+     font-size: 1.5vw;
+     font-weight: bold;
+     text-align: center;
+   }
+
+   .footer-line {
+     border: 2px solid white;
+     width: 70vw;
+     margin-left: 15vw;
+     margin-top: 5vw;
+};
+
+
+

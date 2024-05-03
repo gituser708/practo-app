@@ -1,0 +1,84 @@
+.bookConsult-heading {
+     color: red;
+     text-align: center;
+     font-size: 2.5vw;
+}
+
+.bookConsult-container {
+     width: 25vw;
+     margin-left: 35vw;
+     padding: 3vw;
+     border-radius: 0.5vw;
+     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+ }
+ 
+ .bookConsult-container label {
+     display: block;
+     margin-bottom: 1vw;
+     font-weight: bold;
+     font-size: 1.2vw;
+ }
+ 
+ .bookConsult-container input
+  {  
+     width: 25vw;
+     padding: 0.7vw;
+     border:  0.1vw solid rgb(206, 119, 119);
+     border-radius: 0.5vw;
+     box-sizing: border-box;
+     outline: none;
+     background-color: #fff;
+     font-size: 1.3vw;
+     font-weight: bold;
+     color: red;
+     box-shadow: 0px 1.5px 3px rgba(0, 0, 0, 0.3);
+ }
+
+ 
+ .bookConsult-btn  {
+     color: white;
+     background: linear-gradient(73.06deg, #AF1C7E 11.68%, #FF9B53 99.57%);
+     border-radius: 0.5vw;
+     cursor: pointer;
+     font-size: 1.3vw;
+     font-weight: bold;
+     padding: 0.7vw;
+     border: none;
+     width: 100%;
+     transition:  background 0.3s ease-in;
+     margin-top: 1vw;
+ }
+ 
+ .bookConsult-btn:hover {     
+     transform: scale(1.02);
+ }
+ 
+ .consult-loader {
+     border: 5px solid #f3f3f3;
+     border-top: 5px solid #3498db;
+     border-radius: 50%;
+     width: 50px;
+     height: 50px;
+     animation: spin 1s linear infinite;
+     margin-left: 30vw;
+     position: fixed;
+     top: 20vw;
+     left: 20vw;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.react-select {
+    border:  0.1vw solid rgb(206, 119, 119);
+    box-shadow: 0px 1.5px 3px rgba(0, 0, 0, 0.5);
+}
+.consult-link {
+    position: fixed;
+    top: 7vw;
+    right: 35vw;
+    font-size: 1.5vw;
+}
+

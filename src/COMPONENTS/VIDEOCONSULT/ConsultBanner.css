@@ -1,0 +1,62 @@
+.consult-banner {
+ background-image: url('https://img.freepik.com/free-photo/happy-brunette-girl-holding-smartphone-cheering-winning-celebrating-win-mobile-phone-app-stan_1258-125566.jpg?t=st=1714186876~exp=1714190476~hmac=d6116144bbb34fefcde5394528f73a884f916147d9606d355796803a0a237470&w=1380');
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 40vw;
+ display: flex;
+ flex-direction: column;
+}
+
+.consult-banner h1 {
+     font-size: 2.5vw;
+     padding-top: 1.2vw;
+     margin-left: 25vw;
+     color: red;
+}
+
+.consult-banner h2 {
+     font-size: 2.2vw;
+     margin-left: 22vw;
+}
+
+.book-btn {
+     font-size: 1.3vw;
+     font-weight: bold;
+     padding: 0.7vw;
+     background-color: rgb(34, 169, 222);
+     color: white;
+     width: 20%;
+     font-weight: bold;
+     border-radius: 0.3vw;
+     border: none;
+     text-align: center;
+     margin-left: 30vw;
+     transition: background 0.3s ease-in;
+}
+
+.book-btn:hover {
+    background-color: red;
+   color: white;
+   cursor: pointer;
+   transform: scale(1.02);
+}
+
+.consult-banner p {
+     font-size: 2vw;
+     font-weight: 500;
+     margin-left: 20vw;
+}
+
+.consult-banner ul {
+     list-style-type: none;
+     display: flex;
+     flex-direction: row;
+     margin-left: 20vw;
+     padding: 2vw;
+}
+
+.consult-banner li {
+     font-weight: 500;
+     font-size: 1.2vw;
+     margin-left: 1.5vw;
+}
