@@ -16,7 +16,7 @@ const SignupForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5000/api/register', formData);
+      const response = await axios.post('https://practo-server-0bne.onrender.com/api/register', formData);
       console.log(response.data);
       // Handle success, e.g., redirect to login page
       navigate('/login');

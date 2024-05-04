@@ -17,7 +17,7 @@ const LoginForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5000/api/login', formData);
+      const response = await axios.post('https://practo-server-0bne.onrender.com/api/login', formData);
       console.log(response.data);
       // Redirect to home page if login is successful
       navigate('/');

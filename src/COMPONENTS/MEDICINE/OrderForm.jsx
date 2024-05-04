@@ -31,7 +31,7 @@ const OrderForm = ({ onClose }) => {
         e.preventDefault();
         setLoading(true);
         try {
-            await axios.post('http://localhost:5000/api/orders', 
+            await axios.post('https://practo-server-0bne.onrender.com/api/orders', 
             formData);
             setTimeout(() => {
                 setAlert({ message: 'Order placed successfully we will connect you shortly... ', 

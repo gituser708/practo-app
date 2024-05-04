@@ -37,7 +37,7 @@ const BookConsult = () => {
         setLoading(true);
 
         try {
-            await axios.post('http://localhost:5000/api/consult', {
+            await axios.post('https://practo-server-0bne.onrender.com/api/consult', {
                 consultFor: consultFor.value,
                 patientName,
                 phoneNumber,

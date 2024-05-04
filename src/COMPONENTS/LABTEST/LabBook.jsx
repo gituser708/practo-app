@@ -29,7 +29,7 @@ const LabBookForm = () => {
       formData
     };
     try {
-      await axios.post('/api/labtests', data);
+      await axios.post('https://practo-server-0bne.onrender.com/api/labtests', data);
       alert('Booking successful');
       navigate('/');
     } catch (err) {
